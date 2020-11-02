@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name TP4056_my_version)(type Legacy)(uri ${KIPRJMOD}/TP4056_my_version.lib)(options "")(descr ""))
+  (lib (name TP4056_my_version-rescue)(type Legacy)(uri ${KIPRJMOD}/TP4056_my_version-rescue.lib)(options "")(descr ""))
+)
